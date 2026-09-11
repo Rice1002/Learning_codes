@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# 忽略 SSH 密钥文件
+key_of_git
+key_of_git.pub
