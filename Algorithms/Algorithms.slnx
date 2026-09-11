@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="P1217 [USACO1.5] 回文质数 Prime Palindromes/P1217 [USACO1.5] 回文质数 Prime Palindromes.vcxproj" />
+</Solution>
