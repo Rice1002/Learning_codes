@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="P1217 [USACO1.5] 回文质数 Prime Palindromes/P1217 [USACO1.5] 回文质数 Prime Palindromes.vcxproj" />
+  <Project Path="P1005 [NOIP 2007 提高组] 矩阵取数游戏/P1005 [NOIP 2007 提高组] 矩阵取数游戏.vcxproj" Id="f692e884-0dff-47f3-a91d-f934ecda59f6" />
+  <Project Path="P1217 [USACO1.5] 回文质数 Prime Palindromes/P1217 [USACO1.5] 回文质数 Prime Palindromes.vcxproj" Id="01b0edf3-faee-46a9-9f48-4f34521b35cb" />
 </Solution>
