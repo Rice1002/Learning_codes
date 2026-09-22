@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="linklist_basic/linklist_basic.vcxproj" Id="fd236b47-68f5-40c7-af87-2aff5219f9e6" />
+  <Project Path="stack(arr)/stack(arr).vcxproj" Id="062803d5-926e-4195-8f83-9990200f8b24" />
+  <Project Path="stack(linklist)/stack(linklist).vcxproj" Id="59a48432-723f-4e85-9c82-8d3a9d4ebd0f" />
+</Solution>
